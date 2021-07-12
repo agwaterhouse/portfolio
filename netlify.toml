@@ -3,3 +3,10 @@
   to = "https://waterhouses.world/"
   status = 301
   force = true # COMMENT: ensure that we always redirect
+  
+  
+  [[redirects]]
+  from = "/index.html"
+  to = "https://waterhouses.world/"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
