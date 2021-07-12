@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/blog"
-  to = "https://api.mysearch.com"
+  from = "/"
+  to = "https://waterhouses.world/"
   status = 301
   force = true # COMMENT: ensure that we always redirect
