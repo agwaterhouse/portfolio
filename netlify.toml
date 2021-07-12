@@ -1,7 +1,5 @@
 [[redirects]]
-  from = "/search"
+  from = "/blog"
   to = "https://api.mysearch.com"
-  status = 200
+  status = 301
   force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
